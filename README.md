@@ -1,18 +1,67 @@
-👨🏻‍💻  Buscando oportunidades como Analista Júnior ou Trainee, com a missão de transformar dados em insights e soluções que fazem a diferença!
+Olá! Sou Luiz Gustavo 👋
 
-️ Mergulhado no desenvolvimento de projetos de análise de dados, utilizando Python, SQL e SGBDs. Habilidades em modelagem de dados, criação de interfaces web (HTML, CSS, JavaScript) e desenvolvimento back-end (Python, Node.js). Domínio em versionamento com Git e GitHub.
+  Após uma transição de carreira, estou imerso no universo da Análise e Desenvolvimento de Sistemas, com foco total em desenvolvimento backend utilizando Java e aberto a novos desafios. 🚀
 
-  Atualmente, trilhando o caminho da graduação em Ciência da Computação e vibrando com a chegada da minha pequena! 
+<p align="left
+  Minha paixão é construir soluções robustas, escaláveis e que realmente façam a diferença, transformando desafios complexos em software funcional e eficiente. Estou sempre em busca de novos aprendizados e tecnologias para aprimorar minhas habilidades.
+/p>
 
-  Objetivos futuros: dominar Matplotlib, Pandas, NumPy, SQLite3, SQLAlchemy, Django e desbravar o mundo do cloud e Java para me tornar um desenvolvedor full-stack completo!
+---
 
-️ Tech Stack:
- Python (análise de dados, back-end)
- SQL
- HTML, CSS, JavaScript
- Node.js
- Git, GitHub
-<!---
-Luizgustavogithub/Luizgustavogithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🌱 Atualmente Focado Em:
+* ☕ **Java:** Aprofundando em seus principais frameworks (como Spring Boot) para criação de APIs RESTful e microsserviços.
+* 🐘 **Bancos de Dados:** SQL (com conhecimento em SGBDs como PostgreSQL, MySQL).
+* 🛠️ **Arquitetura de Software:** Padrões de projeto, boas práticas de desenvolvimento.
+* ☁️ **Cloud Computing:** Fundamentos e exploração de serviços (GCP).
+* 🔄 **Metodologias Ágeis:** Scrum, Kanban e LEAM.
+
+---
+
+### 🛠️ Minhas Habilidades (Tech Stack):
+
+* **Backend:**
+    * `Java` (POO)
+    * `Python` (experiência anterior em análise de dados e backend)
+* **Bancos de Dados:**
+    * `SQL` (PostgreSQL, MySQL, SQLite3)
+    * `SQLAlchemy` (ORM com Python)
+* **Frontend (Conhecimentos):**
+    * `HTML5`
+    * `CSS3`
+    * `JavaScript`
+    * `React`
+    * `Tailwindcss`
+* **Versionamento:**
+    * `Git`
+    * `GitHub`
+* **Análise de Dados (Background):**
+    * `Python` (Pandas, NumPy, Matplotlib)
+
+---
+
+### 📚 Formação:
+* 🎓 Cursando Bacharelado em Ciência da Computação.
+
+---
+
+### 🎯 Objetivos:
+* Consolidar minha carreira como Desenvolvedor Backend Java Jr. ou Analista de Sistemas.
+* Contribuir ativamente em projetos desafiadores e inovadores.
+* Continuar aprendendo e me especializando em tecnologias backend e arquiteturas de sistemas distribuídos.
+* Eventualmente, explorar o desenvolvimento full-stack com maior profundidade.
+
+---
+
+<p align="left
+  👨🏻‍💻 Buscando ativamente oportunidades para aplicar e expandir meus conhecimentos, especialmente em Java. Adoraria conectar e colaborar!
+/p>
+
+<p align="left
+  ✨ E, na vida pessoal, vibrando com cada descoberta da minha pequena princesa, a paternidade tem sido a minha maior escola atualmente! 😊
+</p>
+
+---
+
+### 📫 Como me encontrar:
+* **LinkedIn:** linkedin.com/in/luiz-gustavo-127468266
+* **Email:** Nogueiragustavo914@gmail.com
